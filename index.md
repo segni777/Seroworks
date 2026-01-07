@@ -8,8 +8,6 @@ Seroworks publishes **weekly, judgment-forward signals** on:
 - Real-time settlement
 - Institutional payment infrastructure
 
-The goal is not prediction hype — it is **clarity under uncertainty**.
-
 ---
 
 ## Latest Signal
@@ -20,4 +18,4 @@ The goal is not prediction hype — it is **clarity under uncertainty**.
 
 ## Archive
 
-- Signal #001 — Week of [DATE]
+- Signal #001 — Week of [01/05/2026]
